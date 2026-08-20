@@ -1,1 +1,1 @@
-# C LeetCode 程式練習⚙️
+# C LeetCode 程式練習紀錄 ⚙️
